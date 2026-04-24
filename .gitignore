@@ -49,3 +49,7 @@ results/tables/*
 
 # Temporary files
 tmp/
+
+# Local datasets
+/data/
+images/
